@@ -1,0 +1,16 @@
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+C:\Users\B\Desktop\fullstack\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.csprojAssemblyReference.cache
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\B\Desktop\fullstack\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
