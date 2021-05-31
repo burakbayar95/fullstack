@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Değişkenler ve Veri Tiplerleri/1.0.0": {
+        "runtime": {
+          "Değişkenler ve Veri Tiplerleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Değişkenler ve Veri Tiplerleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
