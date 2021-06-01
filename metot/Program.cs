@@ -10,9 +10,11 @@ namespace metot
             int a=5;
             int b=10;
            int sonuc=(topla(a,b));
-
+           
             Metotlar ornek= new Metotlar();
             ornek.ekranayazdir(sonuc.ToString());
+            int sonuc2=ornek.arttirveTopla(a,b);
+
 
 
 
@@ -29,6 +31,15 @@ namespace metot
         public void ekranayazdir(string veri)
         {
             Console.WriteLine(veri);
+        }
+
+
+        public int arttirveTopla(int d1,int d2)
+        {
+            d1+=1;
+            d2+=1;
+            return d1 + d2;
+
         }
     }
 }
