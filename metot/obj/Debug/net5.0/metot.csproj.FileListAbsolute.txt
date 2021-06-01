@@ -1,0 +1,16 @@
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.exe
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.deps.json
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.runtimeconfig.json
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.runtimeconfig.dev.json
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.dll
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\ref\metot.dll
+c:\Users\B\Desktop\fullstack\metot\bin\Debug\net5.0\metot.pdb
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.csprojAssemblyReference.cache
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.AssemblyInfoInputs.cache
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.AssemblyInfo.cs
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.csproj.CoreCompileInputs.cache
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.dll
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\ref\metot.dll
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.pdb
+c:\Users\B\Desktop\fullstack\metot\obj\Debug\net5.0\metot.genruntimeconfig.cache
