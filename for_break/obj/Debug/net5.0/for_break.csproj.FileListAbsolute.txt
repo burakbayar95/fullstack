@@ -1,0 +1,16 @@
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.exe
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.deps.json
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.dll
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\ref\for_break.dll
+C:\Users\B\Desktop\fullstack\for_break\bin\Debug\net5.0\for_break.pdb
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.csprojAssemblyReference.cache
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.dll
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\ref\for_break.dll
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.pdb
+C:\Users\B\Desktop\fullstack\for_break\obj\Debug\net5.0\for_break.genruntimeconfig.cache
