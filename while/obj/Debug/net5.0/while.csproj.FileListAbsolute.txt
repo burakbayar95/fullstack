@@ -1,0 +1,16 @@
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.csprojAssemblyReference.cache
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.exe
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.deps.json
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.dll
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\ref\while.dll
+C:\Users\B\Desktop\fullstack\while\bin\Debug\net5.0\while.pdb
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.dll
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\ref\while.dll
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.pdb
+C:\Users\B\Desktop\fullstack\while\obj\Debug\net5.0\while.genruntimeconfig.cache

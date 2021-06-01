@@ -6,8 +6,8 @@ namespace for_break
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sayi Giriniz: ");
-            int sayi = int.Parse(Console.ReadLine());
+          //  Console.WriteLine("Sayi Giriniz: ");
+          //  int sayi = int.Parse(Console.ReadLine());
             int teksayilartoplami=0;
            int ciftsayilartoplami=0;
 
@@ -46,9 +46,29 @@ namespace for_break
              Console.WriteLine("Çift sayılar toplamı= "+ciftsayilartoplami);
             Console.WriteLine("Toplam= "+toplam);
             
-            
+            // break = loop dan çıkmak
+            // continue = sadece orayı atlayıp devam eder
+/*
+            for (int i = 0; i < 10; i++)
+            {
+                if (i==4)
+                {
+                    break;
+                }
+                Console.WriteLine(i);
+            }
+    
+*/
 
-
+  for (int i = 0; i < 10; i++)
+            {
+                if (i==4)
+                {
+                    continue;
+                }
+                Console.WriteLine(i);
+            }
         }
+
     }
 }
