@@ -1,0 +1,16 @@
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.exe
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.deps.json
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.dll
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\ref\dizi.dll
+C:\Users\B\Desktop\fullstack\dizi\bin\Debug\net5.0\dizi.pdb
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.csprojAssemblyReference.cache
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.dll
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\ref\dizi.dll
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.pdb
+C:\Users\B\Desktop\fullstack\dizi\obj\Debug\net5.0\dizi.genruntimeconfig.cache
