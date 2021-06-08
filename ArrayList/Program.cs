@@ -25,6 +25,7 @@ namespace ArrayList_
             {
                 Console.WriteLine(item);
             }
+            
 
         }
     }
