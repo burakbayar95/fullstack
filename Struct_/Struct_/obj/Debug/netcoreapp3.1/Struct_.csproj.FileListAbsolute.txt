@@ -1,0 +1,13 @@
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.exe
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.deps.json
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.dll
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\bin\Debug\netcoreapp3.1\Struct_.pdb
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.csproj.AssemblyReference.cache
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.dll
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.pdb
+C:\Users\B\Desktop\fullstack\Struct_\Struct_\obj\Debug\netcoreapp3.1\Struct_.genruntimeconfig.cache
