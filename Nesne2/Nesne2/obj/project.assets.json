@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B\\Desktop\\fullstack\\Nesne\\Nesne\\Nesne.csproj",
-      "projectName": "Nesne",
-      "projectPath": "C:\\Users\\B\\Desktop\\fullstack\\Nesne\\Nesne\\Nesne.csproj",
+      "projectUniqueName": "C:\\Users\\B\\Desktop\\fullstack\\Nesne2\\Nesne2\\Nesne2.csproj",
+      "projectName": "Nesne2",
+      "projectPath": "C:\\Users\\B\\Desktop\\fullstack\\Nesne2\\Nesne2\\Nesne2.csproj",
       "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B\\Desktop\\fullstack\\Nesne\\Nesne\\obj\\",
+      "outputPath": "C:\\Users\\B\\Desktop\\fullstack\\Nesne2\\Nesne2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",

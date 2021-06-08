@@ -2,33 +2,39 @@
 
 namespace Nesne
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
             Calisan calisan1 = new Calisan();
-            calisan1.ad = "Burak";
-
+            Calisan calisan2 = new Calisan("Can", 20);
+            calisan1.Ad = "Burak";
 
             calisan1.CalisanBilgileri();
-
-
-       
-
+            calisan2.CalisanBilgileri();
         }
     }
 
-    class Calisan
+    internal class Calisan
     {
-        public string ad;
-        public int no;
+        public string Ad;
+        public int No;
+
+        public Calisan(string ad, int no)
+        {
+            this.Ad = ad;
+            this.No = no;
+        }
+
+        public Calisan()
+        {
+        }
 
         public void CalisanBilgileri()
         {
-            Console.WriteLine("Çalışan Adi {0}", ad);
+            Console.WriteLine("Çalışan Adi {0}", Ad);
         }
-
     }
 }
