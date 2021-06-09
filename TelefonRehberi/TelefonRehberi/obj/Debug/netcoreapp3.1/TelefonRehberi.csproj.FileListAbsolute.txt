@@ -1,0 +1,13 @@
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.AssemblyInfo.cs
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.exe
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.deps.json
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.runtimeconfig.json
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.dll
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\bin\Debug\netcoreapp3.1\TelefonRehberi.pdb
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.dll
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.pdb
+C:\Users\B\Desktop\fullstack\TelefonRehberi\TelefonRehberi\obj\Debug\netcoreapp3.1\TelefonRehberi.genruntimeconfig.cache
