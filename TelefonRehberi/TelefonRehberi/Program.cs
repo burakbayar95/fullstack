@@ -54,7 +54,7 @@ namespace TelefonRehberi
         }
 
         public static List<Person> persons = new List<Person>();
-        public static int i = 0;
+        public static int f = 0;
 
         public static void AddPerson()
         {
@@ -68,13 +68,14 @@ namespace TelefonRehberi
 
             persons.Add(person);
 
-            Console.WriteLine(persons[i].Name + " Adli kişi eklendi");
-            i++;
+            Console.WriteLine(persons[f].Name + " Adli kişi eklendi");
+            f++;
         }
-
+        
         public static void DeletePerson()
         {
-            Console.WriteLine("Silmek istediğiniz ismi giriniz:  ");
+           int deletecount = 0;
+        Console.WriteLine("Silmek istediğiniz ismi giriniz:  ");
             string deleteName = Console.ReadLine().ToLower();
 
             for (int i = 0; i < persons.Count; i++)
@@ -84,24 +85,33 @@ namespace TelefonRehberi
                     Console.WriteLine("\n");
                     Console.WriteLine(persons[i].Name + " adli kişi silindi");
                     Console.WriteLine("\n");
-
+                    deletecount++;
                     persons.RemoveAt(i);
+                    f--;
                 }
-            }
-            Console.WriteLine("Lütfen geçerli bir değer giriniz..");
-        }
 
+                else if (deletecount == 0)
+                {
+                    Console.WriteLine("Lütfen geçerli bir değer giriniz..");
+
+                }
+
+
+            }
+           
+        }
+        public static int Updatecount=0;
         public static void UpdatePerson()
         {
             Console.WriteLine("Güncellemek istediğiniz ismi giriniz:  ");
             string updateName = Console.ReadLine().ToLower();
-
+           
             for (int i = 0; i < persons.Count; i++)
             {
                 if (updateName == (persons[i].Name).ToString())
                 {
                     Console.WriteLine("\n");
-
+                    Updatecount++;
                     Console.WriteLine("Lütfen İsim Giriniz:  ");
                     persons[i].Name = Console.ReadLine().ToLower();
                     Console.WriteLine("Lütfen Soyisim Giriniz.");
@@ -111,10 +121,17 @@ namespace TelefonRehberi
 
                     Console.WriteLine("Güncelleme Gerçekleşti...");
                 }
+
             }
-            Console.WriteLine("Lütfen geçerli bir değer giriniz..");
+            if(Updatecount==0)
+            {
+                Console.WriteLine("Lütfen geçerli bir değer giriniz..");
+
+            }
+            
         }
 
+        
         public static void List()
         {
             Console.WriteLine("Rehberdeki Kişiler");
@@ -122,8 +139,9 @@ namespace TelefonRehberi
             {
                 Console.WriteLine(" " + item.Name + " " + item.LastName + " " + item.PhoneNumber);
             }
+           
         }
-
+        public static int SearchCount = 0;
         public static void SearchPerson()
         {
             Console.WriteLine("Arama istediğiniz ismi giriniz:  ");
@@ -133,15 +151,18 @@ namespace TelefonRehberi
             {
                 if (searchName == (persons[i].Name).ToString())
                 {
+                    SearchCount++;
                     Console.WriteLine("Aradığınz kişinin bilgileri :" + persons[i].Name + " " + persons[i].LastName + " " + persons[i].PhoneNumber);
                     Console.WriteLine("\n");
                 }
+            }
 
-               
+            if (SearchCount == 0)
+            {
+                Console.WriteLine("Lütfen geçerli bir değer giriniz..");
 
             }
-            Console.WriteLine("Lütfen geçerli bir değer giriniz..");
+            
         }
-        
     }
 }
