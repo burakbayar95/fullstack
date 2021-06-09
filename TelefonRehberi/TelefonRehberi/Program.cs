@@ -134,6 +134,7 @@ namespace TelefonRehberi
         
         public static void List()
         {
+
             Console.WriteLine("Rehberdeki Kişiler");
             foreach (var item in persons)
             {
