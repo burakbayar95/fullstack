@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace TO_DO2
 {
@@ -8,18 +9,18 @@ namespace TO_DO2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            List<Member> members = new List<Member>();
-            members.Add(new Member(1, "Burak"));
-            members.Add(new Member(2, "Can"));
-            members.Add(new Member(3, "Iknur"));
-            members.Add(new Member(4, "Mert"));
+            //List<Member> members = new List<Member>();
+            //members.Add(new Member(1, "Burak"));
+            //members.Add(new Member(2, "Can"));
+            //members.Add(new Member(3, "Iknur"));
+            //members.Add(new Member(4, "Mert"));
 
 
 
-            List<Card> cards = new List<Card>();
-            cards.Add(new Card("Kart1", "işler", Size.S, members[0], Type.ToDo));
-            cards.Add(new Card("Kart2", "işler2", Size.M, members[1], Type.InProgress));
-            cards.Add(new Card("Kart2", "işler2", Size.M, members[2], Type.Done));
+            //List<Card> cards = new List<Card>();
+            //cards.Add(new Card("Kart1", "işler", Size.S, members[0], Type.ToDo));
+            //cards.Add(new Card("Kart2", "işler2", Size.M, members[1], Type.InProgress));
+            //cards.Add(new Card("Kart2", "işler2", Size.M, members[2], Type.Done));
 
 
             AnaEkran();
@@ -44,7 +45,7 @@ namespace TO_DO2
                         break;
 
                     case 2:
-
+                        KartEkle();
                         AnaEkran();
                         break;
 
@@ -64,8 +65,36 @@ namespace TO_DO2
             }
 
         }
+        public static void KartEkle()
+        {
+           Card card = new Card();
+            Member member = new Member();
 
-        public void Listele(List<Card> cards ,List<Card> ToDo, List<Card> InProgress, List<Card> Done)
+            Board board = new Board();
+            
+
+
+
+
+            Console.WriteLine(" Başlık Giriniz                                  : ");
+            card.title=Console.ReadLine();
+            Console.WriteLine(" İçerik Giriniz                                  :");
+            card.content = Console.ReadLine();
+            Console.WriteLine(" Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :");
+            card.size = (Size)int.Parse(Console.ReadLine());
+            Console.WriteLine(" Kişi Seçiniz                                    : ");
+            int memberId = int.Parse(Console.ReadLine());
+            if (MemberData.members.FirstOrDefault(x => x.Id == memberId)==null)
+            {
+                Console.WriteLine("Hatalı girişler yaptınız!");
+            }
+            
+            
+            
+
+
+        }
+        public static void Listele()
         {
 
            
@@ -73,12 +102,12 @@ namespace TO_DO2
             Console.WriteLine("");
             Console.WriteLine("TODO Line");
             Console.WriteLine("************************");
-            foreach (var item in ToDo)
+            foreach (var item in BoardData.board.ToDo)
             {
 
                 Console.WriteLine("Başlık      :"+item.title);
                 Console.WriteLine("İçerik      :"+item.content);
-                Console.WriteLine("Atanan Kişi :"+item.member.Mem_name);
+                Console.WriteLine("Atanan Kişi :"+MemberData.members.FirstOrDefault(x => x.Id==item.memberid).Mem_name);
                 Console.WriteLine("Büyüklük    :"+item.size);
 
             }
@@ -90,12 +119,12 @@ namespace TO_DO2
 
             Console.WriteLine("IN PROGRESS Line");
             Console.WriteLine("************************");
-            foreach (var item in InProgress)
+            foreach (var item in BoardData.board.InProgress)
             {
 
                 Console.WriteLine("Başlık      :" + item.title);
                 Console.WriteLine("İçerik      :" + item.content);
-                Console.WriteLine("Atanan Kişi :" + item.member.Mem_name);
+                Console.WriteLine("Atanan Kişi :" + MemberData.members.FirstOrDefault(x => x.Id == item.memberid).Mem_name);
                 Console.WriteLine("Büyüklük    :" + item.size);
 
             }
@@ -106,12 +135,12 @@ namespace TO_DO2
             Console.WriteLine("Done Line");
             Console.WriteLine("************************");
 
-            foreach (var item in Done)
+            foreach (var item in BoardData.board.Done)
             {
 
                 Console.WriteLine("Başlık      :" + item.title);
                 Console.WriteLine("İçerik      :" + item.content);
-                Console.WriteLine("Atanan Kişi :" + item.member.Mem_name);
+                Console.WriteLine("Atanan Kişi :" + MemberData.members.FirstOrDefault(x => x.Id == item.memberid).Mem_name );
                 Console.WriteLine("Büyüklük    :" + item.size);
 
             }

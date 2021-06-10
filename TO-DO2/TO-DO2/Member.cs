@@ -13,6 +13,9 @@ namespace TO_DO2
             this.Id = ıd;
             this.Mem_name = mem_name;
         }
+        public Member()
+        {
 
+        }
     }
 }
