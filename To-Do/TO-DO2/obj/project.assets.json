@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B\\Desktop\\fullstack\\TO-DO2\\TO-DO2\\TO-DO2.csproj",
+      "projectUniqueName": "C:\\Users\\B\\Desktop\\fullstack\\To-Do\\TO-DO2\\TO-DO2.csproj",
       "projectName": "TO-DO2",
-      "projectPath": "C:\\Users\\B\\Desktop\\fullstack\\TO-DO2\\TO-DO2\\TO-DO2.csproj",
+      "projectPath": "C:\\Users\\B\\Desktop\\fullstack\\To-Do\\TO-DO2\\TO-DO2.csproj",
       "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B\\Desktop\\fullstack\\TO-DO2\\TO-DO2\\obj\\",
+      "outputPath": "C:\\Users\\B\\Desktop\\fullstack\\To-Do\\TO-DO2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
